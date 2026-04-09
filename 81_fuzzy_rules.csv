@@ -1,0 +1,82 @@
+Rule,Kejelasan Informasi,Kejelasan Persyaratan,Kemampuan Petugas,Ketersediaan Sarpras,Kepuasan Pelayanan
+1,Tidak Memuaskan,Tidak Memuaskan,Tidak Memuaskan,Tidak Memuaskan,Kurang Memuaskan
+2,Tidak Memuaskan,Tidak Memuaskan,Tidak Memuaskan,Cukup Memuaskan,Cukup Memuaskan
+3,Tidak Memuaskan,Tidak Memuaskan,Tidak Memuaskan,Memuaskan,Cukup Memuaskan
+4,Tidak Memuaskan,Tidak Memuaskan,Cukup Memuaskan,Tidak Memuaskan,Cukup Memuaskan
+5,Tidak Memuaskan,Tidak Memuaskan,Cukup Memuaskan,Cukup Memuaskan,Cukup Memuaskan
+6,Tidak Memuaskan,Tidak Memuaskan,Cukup Memuaskan,Memuaskan,Cukup Memuaskan
+7,Tidak Memuaskan,Tidak Memuaskan,Memuaskan,Tidak Memuaskan,Cukup Memuaskan
+8,Tidak Memuaskan,Tidak Memuaskan,Memuaskan,Cukup Memuaskan,Cukup Memuaskan
+9,Tidak Memuaskan,Tidak Memuaskan,Memuaskan,Memuaskan,Memuaskan
+10,Tidak Memuaskan,Cukup Memuaskan,Tidak Memuaskan,Tidak Memuaskan,Cukup Memuaskan
+11,Tidak Memuaskan,Cukup Memuaskan,Tidak Memuaskan,Cukup Memuaskan,Cukup Memuaskan
+12,Tidak Memuaskan,Cukup Memuaskan,Tidak Memuaskan,Memuaskan,Cukup Memuaskan
+13,Tidak Memuaskan,Cukup Memuaskan,Cukup Memuaskan,Tidak Memuaskan,Cukup Memuaskan
+14,Tidak Memuaskan,Cukup Memuaskan,Cukup Memuaskan,Cukup Memuaskan,Cukup Memuaskan
+15,Tidak Memuaskan,Cukup Memuaskan,Cukup Memuaskan,Memuaskan,Memuaskan
+16,Tidak Memuaskan,Cukup Memuaskan,Memuaskan,Tidak Memuaskan,Cukup Memuaskan
+17,Tidak Memuaskan,Cukup Memuaskan,Memuaskan,Cukup Memuaskan,Memuaskan
+18,Tidak Memuaskan,Cukup Memuaskan,Memuaskan,Memuaskan,Memuaskan
+19,Tidak Memuaskan,Memuaskan,Tidak Memuaskan,Tidak Memuaskan,Cukup Memuaskan
+20,Tidak Memuaskan,Memuaskan,Tidak Memuaskan,Cukup Memuaskan,Cukup Memuaskan
+21,Tidak Memuaskan,Memuaskan,Tidak Memuaskan,Memuaskan,Memuaskan
+22,Tidak Memuaskan,Memuaskan,Cukup Memuaskan,Tidak Memuaskan,Cukup Memuaskan
+23,Tidak Memuaskan,Memuaskan,Cukup Memuaskan,Cukup Memuaskan,Memuaskan
+24,Tidak Memuaskan,Memuaskan,Cukup Memuaskan,Memuaskan,Memuaskan
+25,Tidak Memuaskan,Memuaskan,Memuaskan,Tidak Memuaskan,Memuaskan
+26,Tidak Memuaskan,Memuaskan,Memuaskan,Cukup Memuaskan,Memuaskan
+27,Tidak Memuaskan,Memuaskan,Memuaskan,Memuaskan,Sangat Memuaskan
+28,Cukup Memuaskan,Tidak Memuaskan,Tidak Memuaskan,Tidak Memuaskan,Cukup Memuaskan
+29,Cukup Memuaskan,Tidak Memuaskan,Tidak Memuaskan,Cukup Memuaskan,Cukup Memuaskan
+30,Cukup Memuaskan,Tidak Memuaskan,Tidak Memuaskan,Memuaskan,Cukup Memuaskan
+31,Cukup Memuaskan,Tidak Memuaskan,Cukup Memuaskan,Tidak Memuaskan,Cukup Memuaskan
+32,Cukup Memuaskan,Tidak Memuaskan,Cukup Memuaskan,Cukup Memuaskan,Cukup Memuaskan
+33,Cukup Memuaskan,Tidak Memuaskan,Cukup Memuaskan,Memuaskan,Memuaskan
+34,Cukup Memuaskan,Tidak Memuaskan,Memuaskan,Tidak Memuaskan,Cukup Memuaskan
+35,Cukup Memuaskan,Tidak Memuaskan,Memuaskan,Cukup Memuaskan,Memuaskan
+36,Cukup Memuaskan,Tidak Memuaskan,Memuaskan,Memuaskan,Memuaskan
+37,Cukup Memuaskan,Cukup Memuaskan,Tidak Memuaskan,Tidak Memuaskan,Cukup Memuaskan
+38,Cukup Memuaskan,Cukup Memuaskan,Tidak Memuaskan,Cukup Memuaskan,Cukup Memuaskan
+39,Cukup Memuaskan,Cukup Memuaskan,Tidak Memuaskan,Memuaskan,Memuaskan
+40,Cukup Memuaskan,Cukup Memuaskan,Cukup Memuaskan,Tidak Memuaskan,Cukup Memuaskan
+41,Cukup Memuaskan,Cukup Memuaskan,Cukup Memuaskan,Cukup Memuaskan,Memuaskan
+42,Cukup Memuaskan,Cukup Memuaskan,Cukup Memuaskan,Memuaskan,Memuaskan
+43,Cukup Memuaskan,Cukup Memuaskan,Memuaskan,Tidak Memuaskan,Memuaskan
+44,Cukup Memuaskan,Cukup Memuaskan,Memuaskan,Cukup Memuaskan,Memuaskan
+45,Cukup Memuaskan,Cukup Memuaskan,Memuaskan,Memuaskan,Sangat Memuaskan
+46,Cukup Memuaskan,Memuaskan,Tidak Memuaskan,Tidak Memuaskan,Cukup Memuaskan
+47,Cukup Memuaskan,Memuaskan,Tidak Memuaskan,Cukup Memuaskan,Memuaskan
+48,Cukup Memuaskan,Memuaskan,Tidak Memuaskan,Memuaskan,Memuaskan
+49,Cukup Memuaskan,Memuaskan,Cukup Memuaskan,Tidak Memuaskan,Memuaskan
+50,Cukup Memuaskan,Memuaskan,Cukup Memuaskan,Cukup Memuaskan,Memuaskan
+51,Cukup Memuaskan,Memuaskan,Cukup Memuaskan,Memuaskan,Sangat Memuaskan
+52,Cukup Memuaskan,Memuaskan,Memuaskan,Tidak Memuaskan,Memuaskan
+53,Cukup Memuaskan,Memuaskan,Memuaskan,Cukup Memuaskan,Sangat Memuaskan
+54,Cukup Memuaskan,Memuaskan,Memuaskan,Memuaskan,Sangat Memuaskan
+55,Memuaskan,Tidak Memuaskan,Tidak Memuaskan,Tidak Memuaskan,Cukup Memuaskan
+56,Memuaskan,Tidak Memuaskan,Tidak Memuaskan,Cukup Memuaskan,Cukup Memuaskan
+57,Memuaskan,Tidak Memuaskan,Tidak Memuaskan,Memuaskan,Memuaskan
+58,Memuaskan,Tidak Memuaskan,Cukup Memuaskan,Tidak Memuaskan,Cukup Memuaskan
+59,Memuaskan,Tidak Memuaskan,Cukup Memuaskan,Cukup Memuaskan,Memuaskan
+60,Memuaskan,Tidak Memuaskan,Cukup Memuaskan,Memuaskan,Memuaskan
+61,Memuaskan,Tidak Memuaskan,Memuaskan,Tidak Memuaskan,Memuaskan
+62,Memuaskan,Tidak Memuaskan,Memuaskan,Cukup Memuaskan,Memuaskan
+63,Memuaskan,Tidak Memuaskan,Memuaskan,Memuaskan,Sangat Memuaskan
+64,Memuaskan,Cukup Memuaskan,Tidak Memuaskan,Tidak Memuaskan,Cukup Memuaskan
+65,Memuaskan,Cukup Memuaskan,Tidak Memuaskan,Cukup Memuaskan,Memuaskan
+66,Memuaskan,Cukup Memuaskan,Tidak Memuaskan,Memuaskan,Memuaskan
+67,Memuaskan,Cukup Memuaskan,Cukup Memuaskan,Tidak Memuaskan,Memuaskan
+68,Memuaskan,Cukup Memuaskan,Cukup Memuaskan,Cukup Memuaskan,Memuaskan
+69,Memuaskan,Cukup Memuaskan,Cukup Memuaskan,Memuaskan,Sangat Memuaskan
+70,Memuaskan,Cukup Memuaskan,Memuaskan,Tidak Memuaskan,Memuaskan
+71,Memuaskan,Cukup Memuaskan,Memuaskan,Cukup Memuaskan,Sangat Memuaskan
+72,Memuaskan,Cukup Memuaskan,Memuaskan,Memuaskan,Sangat Memuaskan
+73,Memuaskan,Memuaskan,Tidak Memuaskan,Tidak Memuaskan,Memuaskan
+74,Memuaskan,Memuaskan,Tidak Memuaskan,Cukup Memuaskan,Memuaskan
+75,Memuaskan,Memuaskan,Tidak Memuaskan,Memuaskan,Sangat Memuaskan
+76,Memuaskan,Memuaskan,Cukup Memuaskan,Tidak Memuaskan,Memuaskan
+77,Memuaskan,Memuaskan,Cukup Memuaskan,Cukup Memuaskan,Sangat Memuaskan
+78,Memuaskan,Memuaskan,Cukup Memuaskan,Memuaskan,Sangat Memuaskan
+79,Memuaskan,Memuaskan,Memuaskan,Tidak Memuaskan,Sangat Memuaskan
+80,Memuaskan,Memuaskan,Memuaskan,Cukup Memuaskan,Sangat Memuaskan
+81,Memuaskan,Memuaskan,Memuaskan,Memuaskan,Sangat Memuaskan
